@@ -41,5 +41,5 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TaskManagerApp.git
+   git clone https://github.com/ChaitanyaKharche/TaskManagerApp.git
    cd TaskManagerApp
