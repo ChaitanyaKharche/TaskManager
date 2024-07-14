@@ -100,21 +100,6 @@ Before you begin, ensure you have the following installed on your local machine:
      npx react-native run-ios
      ```
 
-### Permissions
-
-To grant access to the GitHub repository, follow these steps:
-
-1. **Go to Your Repository:**
-   - Navigate to your repository on GitHub.
-
-2. **Repository Settings:**
-   - Click on `Settings` in the repository menu.
-
-3. **Manage Access:**
-   - Click on `Manage access` in the left sidebar.
-   - Click on `Invite a collaborator`.
-   - Enter the GitHub username `ImpulseDevTeam` (or the email provided by Impulse Solutions) and click `Add`.
-
 ## Additional Enhancements
 
 ### Form Validation
