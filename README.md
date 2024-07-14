@@ -1,6 +1,4 @@
-Here's a more complete and detailed README file that you can use for your project. It includes setup instructions, feature descriptions, and guidelines for granting repository access.
 
-```markdown
 # Task Manager App
 
 This is a simple Task Manager application built with React Native and Firebase. The app allows users to sign up, log in, add tasks, mark them as completed, and view a leaderboard of task completions.
@@ -44,7 +42,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TaskManagerApp.git
+   git clone https://github.com/ChaitanyaKharche/TaskManagerApp.git
    cd TaskManagerApp
    ```
 
@@ -138,9 +136,6 @@ This project is licensed under the MIT License.
 Feel free to reach out if you have any questions or need further assistance.
 
 **Contact Information:**
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Email: [kchaitanya1331@gmail.com](mailto:kchaitanya1331@gmail.com)
+- GitHub: [https://github.com/ChaitanyaKharche](https://github.com/ChaitanyaKharche)
 
-```
-
-Replace placeholders like `YOUR_USERNAME`, `YOUR_API_KEY`, and `ImpulseDevTeam` with actual values. This README provides comprehensive instructions and enhances the chances of a successful evaluation of your project.
