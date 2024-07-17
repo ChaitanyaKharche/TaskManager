@@ -104,8 +104,12 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ### Form Validation
 
-- **SignupScreen.js**: Added validation for email and password fields to ensure valid inputs.
-- **LoginScreen.js**: Added validation for email and password fields to ensure valid inputs.
+- **SignupScreen.js** and **LoginScreen.js**: Added robust validation for email and password fields to ensure valid inputs and enhance user experience.
+
+### Push Notifications
+
+- **NotificationService.js**: Implemented a service to handle push notifications using Firebase Cloud Messaging.
+- Added functionality to request user permission, retrieve FCM token, and handle incoming notifications.
 
 ### Improved UI/UX
 
@@ -117,7 +121,6 @@ Before you begin, ensure you have the following installed on your local machine:
 This project is licensed under the MIT License.
 
 ---
-
 Feel free to reach out if you have any questions or need further assistance.
 
 **Contact Information:**
