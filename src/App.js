@@ -1,17 +1,27 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import { View, Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { app } from './config/firebaseConfig';
+=======
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+>>>>>>> origin/main
 import LoginScreen from './screens/LoginScreen';
 import SignupScreen from './screens/SignupScreen';
 import TaskScreen from './screens/TaskScreen';
 import LeaderboardScreen from './screens/LeaderboardScreen';
+<<<<<<< HEAD
 import NotificationService from './config/NotificationService';
+=======
+>>>>>>> origin/main
 
 const Stack = createNativeStackNavigator();
 
 const App = () => {
+<<<<<<< HEAD
   const [isFirebaseInitialized, setIsFirebaseInitialized] = useState(false);
 
   useEffect(() => {
@@ -36,6 +46,8 @@ const App = () => {
     );
   }
 
+=======
+>>>>>>> origin/main
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Login">
@@ -48,4 +60,8 @@ const App = () => {
   );
 };
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> origin/main

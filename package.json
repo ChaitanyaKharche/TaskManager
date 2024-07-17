@@ -17,7 +17,10 @@
     "@react-native-firebase/app": "^20.1.0",
     "@react-native-firebase/auth": "^20.1.0",
     "@react-native-firebase/firestore": "^20.1.0",
+<<<<<<< HEAD
     "@react-native-firebase/messaging": "^20.2.0",
+=======
+>>>>>>> origin/main
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.10.0",
     "firebase": "^10.12.3",
